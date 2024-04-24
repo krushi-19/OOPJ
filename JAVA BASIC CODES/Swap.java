@@ -10,6 +10,13 @@ class Swap{
 System.out.println("b:"+b);
 
 
+  without 3rd variable:- 
+
+   a=a+b; /// a = 10+20 = 30
+  b= a-b;  // 30-20 = 10
+  a = a -b // 30 -10 
+   
+
 
 
 }
